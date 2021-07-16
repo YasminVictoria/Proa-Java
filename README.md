@@ -1,2 +1,2 @@
 # Proa-Java
-Exercícios em Java
+Exercícios de Java
